@@ -1,0 +1,49 @@
+# English Language File
+# Format: KEY=VALUE
+# Rules:
+#   - No spaces allowed (the parser splits on whitespace)
+#   - Use _ for a space character in a value    →  Hello_World = "Hello World"
+#   - Use \n for a newline character in a value →  Line1\nLine2
+#   - Lines starting with # are ignored (comments)
+#   - Keys are case-sensitive
+
+# ── UI ───────────────────────────────────────────────────────────────────────
+BTN_START=Start_Game
+BTN_QUIT=Quit
+BTN_SETTINGS=Settings
+BTN_BACK=Back
+BTN_CONFIRM=Confirm
+BTN_CANCEL=Cancel
+BTN_RESUME=Resume
+BTN_RESTART=Restart
+BTN_NEXT_LEVEL=Next_Level
+BTN_PLAY_AGAIN=Play_Again
+BTN_SELECT_LEVEL=Select_Level
+BTN_SUBMIT_SCORE=Submit_Score
+BTN_RESET_PROGRESS=Reset_Progress
+
+# ── HUD ──────────────────────────────────────────────────────────────────────
+HUD_SCORE=Score
+HUD_HEALTH=Health
+HUD_LIVES=Lives
+HUD_LEVEL=Level
+
+# ── Menus ────────────────────────────────────────────────────────────────────
+MENU_MAIN_TITLE=My_Awesome_Game
+MENU_PAUSE_TITLE=Paused
+MENU_SETTINGS_TITLE=Settings
+MENU_LANGUAGE_LABEL=Language
+MENU_LEADERBOARD=Leaderboard
+MENU_TIME=Time
+
+# ── Notifications / Prompts ───────────────────────────────────────────────────
+NOTIF_LOADING=Loading...
+NOTIF_SAVING=Saving...
+NOTIF_SAVED=Game_Saved!
+NOTIF_GAME_OVER=Game_Over
+NOTIF_LEVEL_COMPLETE=Level_Complete!
+PROMPT_QUIT_CONFIRM=Are_you_sure_you_want_to_quit?
+
+# ── Dialogue ─────────────────────────────────────────────────────────────────
+DIALOGUE_NPC_GREETING=Hello,_traveller._Welcome_to_our_town.
+DIALOGUE_NPC_FAREWELL=Safe_travels,_friend.

@@ -1,0 +1,49 @@
+# 简体中文语言文件 (Chinese Simplified / 简体)
+# Format: KEY=VALUE
+# Rules:
+#   - No spaces allowed (the parser splits on whitespace)
+#   - Use _ for a space character in a value
+#   - Use \n for a newline character in a value
+#   - Lines starting with # are ignored (comments)
+#   - Keys are case-sensitive
+
+# ── UI ───────────────────────────────────────────────────────────────────────
+BTN_START=开始游戏
+BTN_QUIT=退出
+BTN_SETTINGS=设置
+BTN_BACK=返回
+BTN_CONFIRM=确认
+BTN_CANCEL=取消
+BTN_RESUME=继续
+BTN_RESTART=重新开始
+BTN_NEXT_LEVEL=下一关
+BTN_PLAY_AGAIN=再玩一次
+BTN_SELECT_LEVEL=选择关卡
+BTN_SUBMIT_SCORE=提交分数
+BTN_RESET_PROGRESS=重置进度
+
+# ── HUD ──────────────────────────────────────────────────────────────────────
+HUD_SCORE=得分
+HUD_HEALTH=生命值
+HUD_LIVES=生命数
+HUD_LEVEL=关卡
+
+# ── Menus ────────────────────────────────────────────────────────────────────
+MENU_MAIN_TITLE=我的超棒游戏
+MENU_PAUSE_TITLE=已暂停
+MENU_SETTINGS_TITLE=设置
+MENU_LANGUAGE_LABEL=语言
+MENU_LEADERBOARD=排行榜
+MENU_TIME=时间
+
+# ── Notifications / Prompts ───────────────────────────────────────────────────
+NOTIF_LOADING=加载中...
+NOTIF_SAVING=保存中...
+NOTIF_SAVED=游戏已保存！
+NOTIF_GAME_OVER=游戏结束
+NOTIF_LEVEL_COMPLETE=关卡完成！
+PROMPT_QUIT_CONFIRM=您确定要退出吗？
+
+# ── Dialogue ─────────────────────────────────────────────────────────────────
+DIALOGUE_NPC_GREETING=你好，旅行者。欢迎来到我们的小镇。
+DIALOGUE_NPC_FAREWELL=一路平安，朋友。

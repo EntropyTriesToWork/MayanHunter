@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 090dfcc360aeb16498b977d42bab45d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6039914689984696021
+    second: smallmonster_0
+  - first:
+      213: 2668550876110035033
+    second: smallmonster_1
+  - first:
+      213: -3312654088672772027
+    second: smallmonster_2
+  - first:
+      213: 8592138267661224516
+    second: smallmonster_3
+  - first:
+      213: 5150579716384101055
+    second: smallmonster_4
+  - first:
+      213: 5708615632760281109
+    second: smallmonster_5
+  - first:
+      213: 3087439520172794593
+    second: smallmonster_6
+  - first:
+      213: -4788189077983375935
+    second: smallmonster_7
+  - first:
+      213: -3335880954812010462
+    second: smallmonster_8
+  - first:
+      213: 2579773861018554686
+    second: smallmonster_9
+  - first:
+      213: -1383071820438096517
+    second: smallmonster_10
+  - first:
+      213: -6054259869325740529
+    second: smallmonster_11
+  - first:
+      213: -5765839582273502717
+    second: smallmonster_12
+  - first:
+      213: 4800328165492410000
+    second: smallmonster_13
+  - first:
+      213: -1268208261023909851
+    second: smallmonster_14
+  - first:
+      213: -4402138004182988010
+    second: smallmonster_15
+  - first:
+      213: -7847855498658812884
+    second: smallmonster_16
+  - first:
+      213: -2701943620050892034
+    second: smallmonster_17
+  - first:
+      213: 2478038091873188277
+    second: smallmonster_18
+  - first:
+      213: 6565641345748054737
+    second: smallmonster_19
+  - first:
+      213: -2611845535756696595
+    second: smallmonster_20
+  - first:
+      213: 1559670967933607648
+    second: smallmonster_21
+  - first:
+      213: 8895205453979393204
+    second: smallmonster_22
+  - first:
+      213: -7572589499519000984
+    second: smallmonster_23
+  - first:
+      213: -4982273899144499471
+    second: smallmonster_24
+  - first:
+      213: 7998350864468934022
+    second: smallmonster_25
+  - first:
+      213: -4105060144155147380
+    second: smallmonster_26
+  - first:
+      213: 5230523995054311959
+    second: smallmonster_27
+  - first:
+      213: 1285034222152570007
+    second: smallmonster_28
+  - first:
+      213: 3683853402231743798
+    second: smallmonster_29
+  - first:
+      213: -6258239250286709356
+    second: smallmonster_30
+  - first:
+      213: 2348303658703429238
+    second: smallmonster_31
+  - first:
+      213: -4020165717192039188
+    second: smallmonster_32
+  - first:
+      213: 6982049289928049011
+    second: smallmonster_33
+  - first:
+      213: -4584692056214109814
+    second: smallmonster_34
+  - first:
+      213: 5210548558516514731
+    second: smallmonster_35
+  - first:
+      213: -7221086209455000825
+    second: smallmonster_36
+  - first:
+      213: 4149958967896969330
+    second: smallmonster_37
+  - first:
+      213: -371133410089153967
+    second: smallmonster_38
+  - first:
+      213: -3706597703969580748
+    second: smallmonster_39
+  - first:
+      213: -3619152369482197304
+    second: smallmonster_40
+  - first:
+      213: 1456992409727088611
+    second: smallmonster_41
+  - first:
+      213: 3155439360546459119
+    second: smallmonster_42
+  - first:
+      213: 550922600015293237
+    second: smallmonster_43
+  - first:
+      213: 356227234093565816
+    second: smallmonster_44
+  - first:
+      213: 601754427135888190
+    second: smallmonster_45
+  - first:
+      213: 2636627721662398775
+    second: smallmonster_46
+  - first:
+      213: 1319941142869005652
+    second: smallmonster_47
+  - first:
+      213: -1505475962498477688
+    second: smallmonster_48
+  - first:
+      213: 6197242710378764161
+    second: smallmonster_49
+  - first:
+      213: 6185165151266343565
+    second: smallmonster_50
+  - first:
+      213: 454848594490549203
+    second: smallmonster_51
+  - first:
+      213: -1491856572619912412
+    second: smallmonster_52
+  - first:
+      213: 4879298622591637403
+    second: smallmonster_53
+  - first:
+      213: -4183969277727164682
+    second: smallmonster_54
+  - first:
+      213: 8079074379727594321
+    second: smallmonster_55
+  - first:
+      213: 895183042425665333
+    second: smallmonster_56
+  - first:
+      213: -7920455844129597464
+    second: smallmonster_57
+  - first:
+      213: 8356306432920133538
+    second: smallmonster_58
+  - first:
+      213: -3272606483142295898
+    second: smallmonster_59
+  - first:
+      213: -1348896564516212528
+    second: smallmonster_60
+  - first:
+      213: -7577549938206997435
+    second: smallmonster_61
+  - first:
+      213: 235695947549533188
+    second: smallmonster_62
+  - first:
+      213: 8272794680593757945
+    second: smallmonster_63
+  - first:
+      213: -2770441706243107927
+    second: smallmonster_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smallmonster_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 432
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8332e86612d350800000000000000
+      internalID: 6039914689984696021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 434
+        width: 139
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958989b12e8980520800000000000000
+      internalID: 2668550876110035033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 443
+        width: 111
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5400ae458a61702d0800000000000000
+      internalID: -3312654088672772027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 238
+        width: 289
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44accf83b386d3770800000000000000
+      internalID: 8592138267661224516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 469
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2186e86f88a7740800000000000000
+      internalID: 5150579716384101055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 507
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181be52ca3193f40800000000000000
+      internalID: 5708615632760281109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 532
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2e669b2e9c8da20800000000000000
+      internalID: 3087439520172794593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 450
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd4569076fec8db0800000000000000
+      internalID: -4788189077983375935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 411
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220707322f194b1d0800000000000000
+      internalID: -3335880954812010462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 400
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3159da88a23dc320800000000000000
+      internalID: 2579773861018554686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 419
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b753fe3d1875ecce0800000000000000
+      internalID: -1383071820438096517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 388
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06bfe6c9b2fafba0800000000000000
+      internalID: -6054259869325740529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 419
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30283bad27f9bffa0800000000000000
+      internalID: -5765839582273502717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 397
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0964a7588013e9240800000000000000
+      internalID: 4800328165492410000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 396
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528347c4e4b666ee0800000000000000
+      internalID: -1268208261023909851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 385
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0d680fc678e2c0800000000000000
+      internalID: -4402138004182988010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 349
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c68d1f001d61390800000000000000
+      internalID: -7847855498658812884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 360
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efacbb3d794c08ad0800000000000000
+      internalID: -2701943620050892034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 377
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9fcfde382c36220800000000000000
+      internalID: 2478038091873188277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 360
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d23ee78408dd1b50800000000000000
+      internalID: 6565641345748054737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 372
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34809c25cd0cbd0800000000000000
+      internalID: -2611845535756696595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 323
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee1c2a5b7015a510800000000000000
+      internalID: 1559670967933607648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 321
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1f884b3e127b70800000000000000
+      internalID: 8895205453979393204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 313
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e1153b8f1c8e690800000000000000
+      internalID: -7572589499519000984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 297
+        width: 108
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feaac339486bdab0800000000000000
+      internalID: -4982273899144499471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 333
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dfb91fbb9dffe60800000000000000
+      internalID: 7998350864468934022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_26
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 300
+        width: 91
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83c4066c85e707c0800000000000000
+      internalID: -4105060144155147380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 277
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a8e5a6cdd869840800000000000000
+      internalID: 5230523995054311959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 232
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794df9f01db55d110800000000000000
+      internalID: 1285034222152570007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 299
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63523a4c62daf1330800000000000000
+      internalID: 3683853402231743798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 290
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f0473f844629a0800000000000000
+      internalID: -6258239250286709356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 281
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e94c95cb9d69020800000000000000
+      internalID: 2348303658703429238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 273
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4a09874908538c0800000000000000
+      internalID: -4020165717192039188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 237
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3710e6236d835e060800000000000000
+      internalID: 6982049289928049011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 282
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a818dc89dd6ef50c0800000000000000
+      internalID: -4584692056214109814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 262
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafec4bae469f4840800000000000000
+      internalID: 5210548558516514731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 211
+        width: 255
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70376f8f95c89cb90800000000000000
+      internalID: -7221086209455000825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27012f1a1bd979930800000000000000
+      internalID: 4149958967896969330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a4b5f312879daf0800000000000000
+      internalID: -371133410089153967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4395d91d6058f8cc0800000000000000
+      internalID: -3706597703969580748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c61005581036cdc0800000000000000
+      internalID: -3619152369482197304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7393e80e6483410800000000000000
+      internalID: 1456992409727088611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed48a3516f5acb20800000000000000
+      internalID: 3155439360546459119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b65a09f2545a700800000000000000
+      internalID: 550922600015293237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 62
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877877338c291f400800000000000000
+      internalID: 356227234093565816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 67
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b0477967cd95800800000000000000
+      internalID: 601754427135888190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 62
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73182a281fe279420800000000000000
+      internalID: 2636627721662398775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 67
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4555121e97f515210800000000000000
+      internalID: 1319941142869005652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819365a6997b1be0800000000000000
+      internalID: -1505475962498477688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18751032967010650800000000000000
+      internalID: 6197242710378764161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a0b564fee16d550800000000000000
+      internalID: 6185165151266343565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e1350362ff4600800000000000000
+      internalID: 454848594490549203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b8825f95cdb4be0800000000000000
+      internalID: -1491856572619912412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_53
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9790a0ee30c6b340800000000000000
+      internalID: 4879298622591637403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6bce90c1e8fe5c0800000000000000
+      internalID: -4183969277727164682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536f95f753ae1070800000000000000
+      internalID: 8079074379727594321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5373cb4fb345c6c00800000000000000
+      internalID: 895183042425665333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71d77cf53e41290800000000000000
+      internalID: -7920455844129597464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af14885d6097f370800000000000000
+      internalID: 8356306432920133538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_59
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 41
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb9aa1ebd5592d0800000000000000
+      internalID: -3272606483142295898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d03449a8b1c74de0800000000000000
+      internalID: -1348896564516212528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54483619a7227d690800000000000000
+      internalID: -7577549938206997435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40460bc273c554300800000000000000
+      internalID: 235695947549533188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6388c4eeedec270800000000000000
+      internalID: 8272794680593757945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallmonster_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 41
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3d37452f96d89d0800000000000000
+      internalID: -2770441706243107927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smallmonster_0: 6039914689984696021
+      smallmonster_1: 2668550876110035033
+      smallmonster_10: -1383071820438096517
+      smallmonster_11: -6054259869325740529
+      smallmonster_12: -5765839582273502717
+      smallmonster_13: 4800328165492410000
+      smallmonster_14: -1268208261023909851
+      smallmonster_15: -4402138004182988010
+      smallmonster_16: -7847855498658812884
+      smallmonster_17: -2701943620050892034
+      smallmonster_18: 2478038091873188277
+      smallmonster_19: 6565641345748054737
+      smallmonster_2: -3312654088672772027
+      smallmonster_20: -2611845535756696595
+      smallmonster_21: 1559670967933607648
+      smallmonster_22: 8895205453979393204
+      smallmonster_23: -7572589499519000984
+      smallmonster_24: -4982273899144499471
+      smallmonster_25: 7998350864468934022
+      smallmonster_26: -4105060144155147380
+      smallmonster_27: 5230523995054311959
+      smallmonster_28: 1285034222152570007
+      smallmonster_29: 3683853402231743798
+      smallmonster_3: 8592138267661224516
+      smallmonster_30: -6258239250286709356
+      smallmonster_31: 2348303658703429238
+      smallmonster_32: -4020165717192039188
+      smallmonster_33: 6982049289928049011
+      smallmonster_34: -4584692056214109814
+      smallmonster_35: 5210548558516514731
+      smallmonster_36: -7221086209455000825
+      smallmonster_37: 4149958967896969330
+      smallmonster_38: -371133410089153967
+      smallmonster_39: -3706597703969580748
+      smallmonster_4: 5150579716384101055
+      smallmonster_40: -3619152369482197304
+      smallmonster_41: 1456992409727088611
+      smallmonster_42: 3155439360546459119
+      smallmonster_43: 550922600015293237
+      smallmonster_44: 356227234093565816
+      smallmonster_45: 601754427135888190
+      smallmonster_46: 2636627721662398775
+      smallmonster_47: 1319941142869005652
+      smallmonster_48: -1505475962498477688
+      smallmonster_49: 6197242710378764161
+      smallmonster_5: 5708615632760281109
+      smallmonster_50: 6185165151266343565
+      smallmonster_51: 454848594490549203
+      smallmonster_52: -1491856572619912412
+      smallmonster_53: 4879298622591637403
+      smallmonster_54: -4183969277727164682
+      smallmonster_55: 8079074379727594321
+      smallmonster_56: 895183042425665333
+      smallmonster_57: -7920455844129597464
+      smallmonster_58: 8356306432920133538
+      smallmonster_59: -3272606483142295898
+      smallmonster_6: 3087439520172794593
+      smallmonster_60: -1348896564516212528
+      smallmonster_61: -7577549938206997435
+      smallmonster_62: 235695947549533188
+      smallmonster_63: 8272794680593757945
+      smallmonster_64: -2770441706243107927
+      smallmonster_7: -4788189077983375935
+      smallmonster_8: -3335880954812010462
+      smallmonster_9: 2579773861018554686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

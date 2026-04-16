@@ -1,0 +1,3744 @@
+fileFormatVersion: 2
+guid: 17376a53d79b1e6468a653c3d00c54ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5150385912178063531
+    second: elitewarrior_0
+  - first:
+      213: 3407156166140793818
+    second: elitewarrior_1
+  - first:
+      213: 2915791733113401011
+    second: elitewarrior_2
+  - first:
+      213: -2796071977535936558
+    second: elitewarrior_3
+  - first:
+      213: -1326840181110740683
+    second: elitewarrior_4
+  - first:
+      213: 4299794871609507195
+    second: elitewarrior_5
+  - first:
+      213: -8579555179518925027
+    second: elitewarrior_6
+  - first:
+      213: -1386546050560377203
+    second: elitewarrior_7
+  - first:
+      213: 3604547076920193986
+    second: elitewarrior_8
+  - first:
+      213: -7115800437238817706
+    second: elitewarrior_9
+  - first:
+      213: 1730065045365286143
+    second: elitewarrior_10
+  - first:
+      213: 6715090888100460587
+    second: elitewarrior_11
+  - first:
+      213: 2564501817340447851
+    second: elitewarrior_12
+  - first:
+      213: -4996290670584795616
+    second: elitewarrior_13
+  - first:
+      213: 8596081653692369187
+    second: elitewarrior_14
+  - first:
+      213: -6995067476524825857
+    second: elitewarrior_15
+  - first:
+      213: 8404434661747568348
+    second: elitewarrior_16
+  - first:
+      213: 1259434024197381085
+    second: elitewarrior_17
+  - first:
+      213: -3674114345029656037
+    second: elitewarrior_18
+  - first:
+      213: -6326209464145994562
+    second: elitewarrior_19
+  - first:
+      213: -5167711117561807197
+    second: elitewarrior_20
+  - first:
+      213: 8965097811818039327
+    second: elitewarrior_21
+  - first:
+      213: 3575961921865241706
+    second: elitewarrior_22
+  - first:
+      213: -2472154909227525940
+    second: elitewarrior_23
+  - first:
+      213: 786304976598113631
+    second: elitewarrior_24
+  - first:
+      213: 1704276936471242636
+    second: elitewarrior_25
+  - first:
+      213: -7195814872518179366
+    second: elitewarrior_26
+  - first:
+      213: 8823733472378475411
+    second: elitewarrior_27
+  - first:
+      213: -1025457071487718485
+    second: elitewarrior_28
+  - first:
+      213: 8269960889560232719
+    second: elitewarrior_29
+  - first:
+      213: 8639894709250857241
+    second: elitewarrior_30
+  - first:
+      213: 3365271645550124494
+    second: elitewarrior_31
+  - first:
+      213: -4416171699422534971
+    second: elitewarrior_32
+  - first:
+      213: -4570001130425434534
+    second: elitewarrior_33
+  - first:
+      213: -2746393723289817611
+    second: elitewarrior_34
+  - first:
+      213: -6529759157275969348
+    second: elitewarrior_35
+  - first:
+      213: 3578479797077785538
+    second: elitewarrior_36
+  - first:
+      213: 2637515482208013892
+    second: elitewarrior_37
+  - first:
+      213: 6344376588485462897
+    second: elitewarrior_38
+  - first:
+      213: -4141578253948705438
+    second: elitewarrior_39
+  - first:
+      213: -4808764225311058574
+    second: elitewarrior_40
+  - first:
+      213: -6734819143621495966
+    second: elitewarrior_41
+  - first:
+      213: 1845301310879141487
+    second: elitewarrior_42
+  - first:
+      213: 1688628553428096247
+    second: elitewarrior_43
+  - first:
+      213: 5998749222360906571
+    second: elitewarrior_44
+  - first:
+      213: -4572059769520281770
+    second: elitewarrior_45
+  - first:
+      213: -7950277091801263302
+    second: elitewarrior_46
+  - first:
+      213: -6730281926101146844
+    second: elitewarrior_47
+  - first:
+      213: -6011703260107663273
+    second: elitewarrior_48
+  - first:
+      213: -685402530385585344
+    second: elitewarrior_49
+  - first:
+      213: -4333449017769157742
+    second: elitewarrior_50
+  - first:
+      213: 6478131483809711347
+    second: elitewarrior_51
+  - first:
+      213: -3726141342056171815
+    second: elitewarrior_52
+  - first:
+      213: -2509163464860398508
+    second: elitewarrior_53
+  - first:
+      213: -8544003240282012253
+    second: elitewarrior_54
+  - first:
+      213: -1721041946567055409
+    second: elitewarrior_55
+  - first:
+      213: -8317684381811511219
+    second: elitewarrior_56
+  - first:
+      213: -4928288293498486286
+    second: elitewarrior_57
+  - first:
+      213: 2730646722558295048
+    second: elitewarrior_58
+  - first:
+      213: 2109396638321162970
+    second: elitewarrior_59
+  - first:
+      213: 6999487360138671440
+    second: elitewarrior_60
+  - first:
+      213: 3352495294399512634
+    second: elitewarrior_61
+  - first:
+      213: -4188200066072640289
+    second: elitewarrior_62
+  - first:
+      213: 6068613185208882063
+    second: elitewarrior_63
+  - first:
+      213: -246906442933212947
+    second: elitewarrior_64
+  - first:
+      213: 5244877186666841679
+    second: elitewarrior_65
+  - first:
+      213: -5868790638718528209
+    second: elitewarrior_66
+  - first:
+      213: 9094661322677301053
+    second: elitewarrior_67
+  - first:
+      213: 61062044986686826
+    second: elitewarrior_68
+  - first:
+      213: 4072345313184927182
+    second: elitewarrior_69
+  - first:
+      213: -4214193925911408871
+    second: elitewarrior_70
+  - first:
+      213: -5293969552711576132
+    second: elitewarrior_71
+  - first:
+      213: -1940159052416396518
+    second: elitewarrior_72
+  - first:
+      213: -7637222822867807235
+    second: elitewarrior_73
+  - first:
+      213: -3929026852666598279
+    second: elitewarrior_74
+  - first:
+      213: -7059949452687397305
+    second: elitewarrior_75
+  - first:
+      213: -5971550914573127544
+    second: elitewarrior_76
+  - first:
+      213: 4663402048879170654
+    second: elitewarrior_77
+  - first:
+      213: -8335365976561566481
+    second: elitewarrior_78
+  - first:
+      213: -7062483084508229049
+    second: elitewarrior_79
+  - first:
+      213: -4959518555711683945
+    second: elitewarrior_80
+  - first:
+      213: -5346797198674046975
+    second: elitewarrior_81
+  - first:
+      213: -6693909621654854703
+    second: elitewarrior_82
+  - first:
+      213: 7470794625642972491
+    second: elitewarrior_83
+  - first:
+      213: -698663197683261363
+    second: elitewarrior_84
+  - first:
+      213: -3039034565210439624
+    second: elitewarrior_85
+  - first:
+      213: 5019710007205614192
+    second: elitewarrior_86
+  - first:
+      213: 6889486938874626001
+    second: elitewarrior_87
+  - first:
+      213: -4222984696507538082
+    second: elitewarrior_88
+  - first:
+      213: 4110530240063468408
+    second: elitewarrior_89
+  - first:
+      213: 2092682392855790484
+    second: elitewarrior_90
+  - first:
+      213: 5127120469963090930
+    second: elitewarrior_91
+  - first:
+      213: 2063755035662633317
+    second: elitewarrior_92
+  - first:
+      213: 3996101459971247338
+    second: elitewarrior_93
+  - first:
+      213: -2630056130097600319
+    second: elitewarrior_94
+  - first:
+      213: 6150451124053461612
+    second: elitewarrior_95
+  - first:
+      213: -6231574509249551459
+    second: elitewarrior_96
+  - first:
+      213: -1786056186460844090
+    second: elitewarrior_97
+  - first:
+      213: 6923702943841601396
+    second: elitewarrior_98
+  - first:
+      213: 5066583284794926370
+    second: elitewarrior_99
+  - first:
+      213: 430054023336911565
+    second: elitewarrior_100
+  - first:
+      213: 6668465875451761443
+    second: elitewarrior_101
+  - first:
+      213: -5649203724733171701
+    second: elitewarrior_102
+  - first:
+      213: -6899070994622301453
+    second: elitewarrior_103
+  - first:
+      213: 2087322980496404052
+    second: elitewarrior_104
+  - first:
+      213: 912398219021071937
+    second: elitewarrior_105
+  - first:
+      213: 6568696013082524642
+    second: elitewarrior_106
+  - first:
+      213: 3264661716493275945
+    second: elitewarrior_107
+  - first:
+      213: -3747840824651485913
+    second: elitewarrior_108
+  - first:
+      213: 8847555734346195613
+    second: elitewarrior_109
+  - first:
+      213: -5272579856679796427
+    second: elitewarrior_110
+  - first:
+      213: -7940343015129796679
+    second: elitewarrior_111
+  - first:
+      213: -492408793750000149
+    second: elitewarrior_112
+  - first:
+      213: 1691377865336041153
+    second: elitewarrior_113
+  - first:
+      213: -7448644070756474285
+    second: elitewarrior_114
+  - first:
+      213: -6880055549871457670
+    second: elitewarrior_115
+  - first:
+      213: -5741421852503518178
+    second: elitewarrior_116
+  - first:
+      213: -8849381454619915876
+    second: elitewarrior_117
+  - first:
+      213: -4075398259038390099
+    second: elitewarrior_118
+  - first:
+      213: -1565738077835263447
+    second: elitewarrior_119
+  - first:
+      213: 1057813165069364051
+    second: elitewarrior_120
+  - first:
+      213: -5559280326701141741
+    second: elitewarrior_121
+  - first:
+      213: -65839053989463711
+    second: elitewarrior_122
+  - first:
+      213: -2959626907326903694
+    second: elitewarrior_123
+  - first:
+      213: 6908449985045656820
+    second: elitewarrior_124
+  - first:
+      213: 7895887619851503551
+    second: elitewarrior_125
+  - first:
+      213: 4807315826424409568
+    second: elitewarrior_126
+  - first:
+      213: 3972006169484015455
+    second: elitewarrior_127
+  - first:
+      213: -7284738498403944744
+    second: elitewarrior_128
+  - first:
+      213: -203842952572457692
+    second: elitewarrior_129
+  - first:
+      213: -7205231425171320589
+    second: elitewarrior_130
+  - first:
+      213: -2124674472221365819
+    second: elitewarrior_131
+  - first:
+      213: 7945797482210404394
+    second: elitewarrior_132
+  - first:
+      213: 6345465472761864898
+    second: elitewarrior_133
+  - first:
+      213: 9196352544020802955
+    second: elitewarrior_134
+  - first:
+      213: 6778474489329774766
+    second: elitewarrior_135
+  - first:
+      213: 3315253187013310347
+    second: elitewarrior_136
+  - first:
+      213: 213777755037060087
+    second: elitewarrior_137
+  - first:
+      213: -7120295904386983395
+    second: elitewarrior_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elitewarrior_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 645
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8bc8ff2b8d97740800000000000000
+      internalID: 5150385912178063531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 638
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad39a113b76a84f20800000000000000
+      internalID: 3407156166140793818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 652
+        width: 111
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beae3bf129f67820800000000000000
+      internalID: 2915791733113401011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 619
+        width: 172
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7eb84c95b5239d0800000000000000
+      internalID: -2796071977535936558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 620
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539ed2b92ed169de0800000000000000
+      internalID: -1326840181110740683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 629
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7db45987a0fbab30800000000000000
+      internalID: 4299794871609507195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 615
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1769e9450c4fe880800000000000000
+      internalID: -8579555179518925027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 626
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eb0a796bff1cce0800000000000000
+      internalID: -1386546050560377203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 606
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c33000087ce50230800000000000000
+      internalID: 3604547076920193986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 617
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c9fc514399f3d90800000000000000
+      internalID: -7115800437238817706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 630
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff461531efc620810800000000000000
+      internalID: 1730065045365286143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 606
+        width: 166
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28b0bba59bc03d50800000000000000
+      internalID: 6715090888100460587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_12
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 556
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ccb68c0d0f69320800000000000000
+      internalID: 2564501817340447851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 602
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee1394b1c99aab0800000000000000
+      internalID: -4996290670584795616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 518
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329069458ba6b4770800000000000000
+      internalID: 8596081653692369187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 609
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff289d901378cee90800000000000000
+      internalID: -6995067476524825857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 600
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdea177dbcc82a470800000000000000
+      internalID: 8404434661747568348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 577
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb535e72986a7110800000000000000
+      internalID: 1259434024197381085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 604
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122750387ce20dc0800000000000000
+      internalID: -3674114345029656037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 594
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc1dd2920ac438a0800000000000000
+      internalID: -6326209464145994562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 610
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae34e74e1a9848b0800000000000000
+      internalID: -5167711117561807197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 599
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18cb02f5fc6a6c70800000000000000
+      internalID: 8965097811818039327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 543
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64d913fb6e50a130800000000000000
+      internalID: 3575961921865241706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 567
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc851c5453421bdd0800000000000000
+      internalID: -2472154909227525940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_24
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 580
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d904fc53489ea00800000000000000
+      internalID: 786304976598113631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 583
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87624518dec6a710800000000000000
+      internalID: 1704276936471242636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 574
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c41e9f74532c90800000000000000
+      internalID: -7195814872518179366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d7ddc7d2347a70800000000000000
+      internalID: 8823733472378475411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 561
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babef810a38d4c1f0800000000000000
+      internalID: -1025457071487718485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 532
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f037c98ec9dc4c270800000000000000
+      internalID: 8269960889560232719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 535
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9199ca1467217e770800000000000000
+      internalID: 8639894709250857241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 565
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd95bd4bb8d3be20800000000000000
+      internalID: 3365271645550124494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_32
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 548
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c269ccbc3b96b2c0800000000000000
+      internalID: -4416171699422534971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 549
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ebbdd4f281490c0800000000000000
+      internalID: -4570001130425434534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 385
+        width: 157
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda2fda579d2e9d0800000000000000
+      internalID: -2746393723289817611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 543
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb836b184a2a165a0800000000000000
+      internalID: -6529759157275969348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_36
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 534
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbbbb47a6059a130800000000000000
+      internalID: 3578479797077785538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 353
+        width: 97
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e0a9e5b565a9420800000000000000
+      internalID: 2637515482208013892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_38
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 351
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b0bfda4e0cb0850800000000000000
+      internalID: 6344376588485462897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 357
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a7e365882686c0800000000000000
+      internalID: -4141578253948705438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 369
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755abd3a66d34db0800000000000000
+      internalID: -4808764225311058574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 383
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263b0f5ebad1982a0800000000000000
+      internalID: -6734819143621495966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_42
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 394
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e8382f3c3db9910800000000000000
+      internalID: 1845301310879141487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 383
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d9acf8b63f6710800000000000000
+      internalID: 1688628553428096247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 344
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf87f82a6df3350800000000000000
+      internalID: 5998749222360906571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_45
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 342
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657a3e90dd7cc80c0800000000000000
+      internalID: -4572059769520281770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_46
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 339
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33924d7b11faa190800000000000000
+      internalID: -7950277091801263302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 339
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423628c2f3c3992a0800000000000000
+      internalID: -6730281926101146844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 340
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758993e7cb3229ca0800000000000000
+      internalID: -6011703260107663273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_49
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 349
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b9630b706fc76f0800000000000000
+      internalID: -685402530385585344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 352
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b9a93f31f7cd3c0800000000000000
+      internalID: -4333449017769157742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 371
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f480cc0342f6e950800000000000000
+      internalID: 6478131483809711347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_52
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 355
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d638dbf0361a4cc0800000000000000
+      internalID: -3726141342056171815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 367
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c8b917f19ad2dd0800000000000000
+      internalID: -2509163464860398508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_54
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 356
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5443f225a9d6980800000000000000
+      internalID: -8544003240282012253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 328
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7e253d771ad18e0800000000000000
+      internalID: -1721041946567055409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 319
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407f4caf16a19c80800000000000000
+      internalID: -8317684381811511219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 179
+        width: 83
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f18e4388e33b9bb0800000000000000
+      internalID: -4928288293498486286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 328
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cfb210ab435e520800000000000000
+      internalID: 2730646722558295048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 327
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada39850115164d10800000000000000
+      internalID: 2109396638321162970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 334
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055f6ee4bac232160800000000000000
+      internalID: 6999487360138671440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_61
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 342
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a300add35b4768e20800000000000000
+      internalID: 3352495294399512634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_62
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 324
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4097dda3680e5c0800000000000000
+      internalID: -4188200066072640289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_63
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 341
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8390aff98b083450800000000000000
+      internalID: 6068613185208882063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_64
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 330
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e538f5efc29cf0800000000000000
+      internalID: -246906442933212947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_65
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 343
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c3d1430c89c840800000000000000
+      internalID: 5244877186666841679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 320
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f255b0e120edd8ea0800000000000000
+      internalID: -5868790638718528209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 289
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f2aa2994ab63e70800000000000000
+      internalID: 9094661322677301053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 308
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6db0bc3b9fe8d000800000000000000
+      internalID: 61062044986686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_69
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 327
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd4d137c70e38830800000000000000
+      internalID: 4072345313184927182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_70
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 326
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f017fb3fc2485c0800000000000000
+      internalID: -4214193925911408871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_71
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 303
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb594ee8dba0886b0800000000000000
+      internalID: -5293969552711576132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_72
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 312
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1356f80f9b2315e0800000000000000
+      internalID: -1940159052416396518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_73
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 311
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3557c6e42230690800000000000000
+      internalID: -7637222822867807235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 296
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c16d5f4ea4979c0800000000000000
+      internalID: -3929026852666598279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 271
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eaa54c065060e90800000000000000
+      internalID: -7059949452687397305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 309
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b5b2f41ac02da0800000000000000
+      internalID: -5971550914573127544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e549548a47bb7b040800000000000000
+      internalID: 4663402048879170654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_78
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 305
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecbb269ec4d25c80800000000000000
+      internalID: -8335365976561566481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_79
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 303
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429ea3ad050dfd90800000000000000
+      internalID: -7062483084508229049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_80
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 297
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792c8d576204c2bb0800000000000000
+      internalID: -4959518555711683945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 280
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100dafeb64c5cc5b0800000000000000
+      internalID: -5346797198674046975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 286
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d361ba3aa47a13a0800000000000000
+      internalID: -6693909621654854703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 278
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45c85b41289da760800000000000000
+      internalID: 7470794625642972491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 288
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40637cf589dd46f0800000000000000
+      internalID: -698663197683261363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 295
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8308f781a2e23d5d0800000000000000
+      internalID: -3039034565210439624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_86
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 193
+        width: 116
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072d6fee7a799a540800000000000000
+      internalID: 5019710007205614192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_87
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 285
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfb05c6edf5c9f50800000000000000
+      internalID: 6889486938874626001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_88
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 285
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55e1c8fac1f465c0800000000000000
+      internalID: -4222984696507538082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 285
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873fb7d89798b0930800000000000000
+      internalID: 4110530240063468408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 266
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49342ed7c83ba0d10800000000000000
+      internalID: 2092682392855790484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 262
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fba8cc17e0372740800000000000000
+      internalID: 5127120469963090930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_92
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 247
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569481c454ee3ac10800000000000000
+      internalID: 2063755035662633317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 258
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec81080b11057730800000000000000
+      internalID: 3996101459971247338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 261
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a13262e9208bd0800000000000000
+      internalID: -2630056130097600319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_95
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 273
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6acb99f5baca5550800000000000000
+      internalID: 6150451124053461612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_96
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 211
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932dc800000589a0800000000000000
+      internalID: -6231574509249551459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_97
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 233
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfcc118c57a637e0800000000000000
+      internalID: -1786056186460844090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4774102e42fe51060800000000000000
+      internalID: 6923702943841601396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_99
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 232
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225222357ae105640800000000000000
+      internalID: 5066583284794926370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_100
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 249
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2693f0bdbd7f500800000000000000
+      internalID: 430054023336911565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_101
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323dd17f1662b8c50800000000000000
+      internalID: 6668465875451761443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_102
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 234
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083773a42ff991b0800000000000000
+      internalID: -5649203724733171701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 162
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3655bb739140a0800000000000000
+      internalID: -6899070994622301453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_104
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 157
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6fff0139a7fc10800000000000000
+      internalID: 2087322980496404052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_105
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 158
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146337a985d79ac00800000000000000
+      internalID: 912398219021071937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_106
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 179
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebfe41b832b82b50800000000000000
+      internalID: 6568696013082524642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_107
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 176
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9231663c8886e4d20800000000000000
+      internalID: 3264661716493275945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_108
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72de0fb70aefcfbc0800000000000000
+      internalID: -3747840824651485913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_109
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 128
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92ec246015d8ca70800000000000000
+      internalID: 8847555734346195613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_110
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 166
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53188b04e8804d6b0800000000000000
+      internalID: -5272579856679796427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_111
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf2f64f81c3ec190800000000000000
+      internalID: -7940343015129796679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda04c9fcc9a29f0800000000000000
+      internalID: -492408793750000149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce205c053bf87710800000000000000
+      internalID: 1691377865336041153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_114
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352ad38aea911a890800000000000000
+      internalID: -7448644070756474285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_115
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7af4f2fde12580a0800000000000000
+      internalID: -6880055549871457670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_116
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14dcd79e3f5250b0800000000000000
+      internalID: -5741421852503518178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_117
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99437bf37ea03580800000000000000
+      internalID: -8849381454619915876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 62
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da875c330e64177c0800000000000000
+      internalID: -4075398259038390099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_119
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 67
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922835b8381654ae0800000000000000
+      internalID: -1565738077835263447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_120
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 62
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be0b6187b1eae00800000000000000
+      internalID: 1057813165069364051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 67
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31139284ff779d2b0800000000000000
+      internalID: -5559280326701141741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1693c9eaab7161ff0800000000000000
+      internalID: -65839053989463711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a8711320b4de6d0800000000000000
+      internalID: -2959626907326903694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f23ba8aebfdf50800000000000000
+      internalID: 6908449985045656820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_125
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb747afb4f3d39d60800000000000000
+      internalID: 7895887619851503551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_126
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede32d164407b240800000000000000
+      internalID: 4807315826424409568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_127
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5731c901966f1730800000000000000
+      internalID: 3972006169484015455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_128
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d635019ee867ea90800000000000000
+      internalID: -7284738498403944744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_129
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42da3f52aedcb2df0800000000000000
+      internalID: -203842952572457692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f09e2a9130e10c90800000000000000
+      internalID: -7205231425171320589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_131
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a7e313d3a382e0800000000000000
+      internalID: -2124674472221365819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_132
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28285026b4254e60800000000000000
+      internalID: 7945797482210404394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_133
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 41
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22a7e4a3f9f0850800000000000000
+      internalID: 6345465472761864898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_134
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dae971ae100af70800000000000000
+      internalID: 9196352544020802955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_135
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea07c8752aaf11e50800000000000000
+      internalID: 6778474489329774766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f8686535220e20800000000000000
+      internalID: 3315253187013310347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb4ddd4cbd77f200800000000000000
+      internalID: 213777755037060087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elitewarrior_138
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 41
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a58539990af2d90800000000000000
+      internalID: -7120295904386983395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      elitewarrior_0: 5150385912178063531
+      elitewarrior_1: 3407156166140793818
+      elitewarrior_10: 1730065045365286143
+      elitewarrior_100: 430054023336911565
+      elitewarrior_101: 6668465875451761443
+      elitewarrior_102: -5649203724733171701
+      elitewarrior_103: -6899070994622301453
+      elitewarrior_104: 2087322980496404052
+      elitewarrior_105: 912398219021071937
+      elitewarrior_106: 6568696013082524642
+      elitewarrior_107: 3264661716493275945
+      elitewarrior_108: -3747840824651485913
+      elitewarrior_109: 8847555734346195613
+      elitewarrior_11: 6715090888100460587
+      elitewarrior_110: -5272579856679796427
+      elitewarrior_111: -7940343015129796679
+      elitewarrior_112: -492408793750000149
+      elitewarrior_113: 1691377865336041153
+      elitewarrior_114: -7448644070756474285
+      elitewarrior_115: -6880055549871457670
+      elitewarrior_116: -5741421852503518178
+      elitewarrior_117: -8849381454619915876
+      elitewarrior_118: -4075398259038390099
+      elitewarrior_119: -1565738077835263447
+      elitewarrior_12: 2564501817340447851
+      elitewarrior_120: 1057813165069364051
+      elitewarrior_121: -5559280326701141741
+      elitewarrior_122: -65839053989463711
+      elitewarrior_123: -2959626907326903694
+      elitewarrior_124: 6908449985045656820
+      elitewarrior_125: 7895887619851503551
+      elitewarrior_126: 4807315826424409568
+      elitewarrior_127: 3972006169484015455
+      elitewarrior_128: -7284738498403944744
+      elitewarrior_129: -203842952572457692
+      elitewarrior_13: -4996290670584795616
+      elitewarrior_130: -7205231425171320589
+      elitewarrior_131: -2124674472221365819
+      elitewarrior_132: 7945797482210404394
+      elitewarrior_133: 6345465472761864898
+      elitewarrior_134: 9196352544020802955
+      elitewarrior_135: 6778474489329774766
+      elitewarrior_136: 3315253187013310347
+      elitewarrior_137: 213777755037060087
+      elitewarrior_138: -7120295904386983395
+      elitewarrior_14: 8596081653692369187
+      elitewarrior_15: -6995067476524825857
+      elitewarrior_16: 8404434661747568348
+      elitewarrior_17: 1259434024197381085
+      elitewarrior_18: -3674114345029656037
+      elitewarrior_19: -6326209464145994562
+      elitewarrior_2: 2915791733113401011
+      elitewarrior_20: -5167711117561807197
+      elitewarrior_21: 8965097811818039327
+      elitewarrior_22: 3575961921865241706
+      elitewarrior_23: -2472154909227525940
+      elitewarrior_24: 786304976598113631
+      elitewarrior_25: 1704276936471242636
+      elitewarrior_26: -7195814872518179366
+      elitewarrior_27: 8823733472378475411
+      elitewarrior_28: -1025457071487718485
+      elitewarrior_29: 8269960889560232719
+      elitewarrior_3: -2796071977535936558
+      elitewarrior_30: 8639894709250857241
+      elitewarrior_31: 3365271645550124494
+      elitewarrior_32: -4416171699422534971
+      elitewarrior_33: -4570001130425434534
+      elitewarrior_34: -2746393723289817611
+      elitewarrior_35: -6529759157275969348
+      elitewarrior_36: 3578479797077785538
+      elitewarrior_37: 2637515482208013892
+      elitewarrior_38: 6344376588485462897
+      elitewarrior_39: -4141578253948705438
+      elitewarrior_4: -1326840181110740683
+      elitewarrior_40: -4808764225311058574
+      elitewarrior_41: -6734819143621495966
+      elitewarrior_42: 1845301310879141487
+      elitewarrior_43: 1688628553428096247
+      elitewarrior_44: 5998749222360906571
+      elitewarrior_45: -4572059769520281770
+      elitewarrior_46: -7950277091801263302
+      elitewarrior_47: -6730281926101146844
+      elitewarrior_48: -6011703260107663273
+      elitewarrior_49: -685402530385585344
+      elitewarrior_5: 4299794871609507195
+      elitewarrior_50: -4333449017769157742
+      elitewarrior_51: 6478131483809711347
+      elitewarrior_52: -3726141342056171815
+      elitewarrior_53: -2509163464860398508
+      elitewarrior_54: -8544003240282012253
+      elitewarrior_55: -1721041946567055409
+      elitewarrior_56: -8317684381811511219
+      elitewarrior_57: -4928288293498486286
+      elitewarrior_58: 2730646722558295048
+      elitewarrior_59: 2109396638321162970
+      elitewarrior_6: -8579555179518925027
+      elitewarrior_60: 6999487360138671440
+      elitewarrior_61: 3352495294399512634
+      elitewarrior_62: -4188200066072640289
+      elitewarrior_63: 6068613185208882063
+      elitewarrior_64: -246906442933212947
+      elitewarrior_65: 5244877186666841679
+      elitewarrior_66: -5868790638718528209
+      elitewarrior_67: 9094661322677301053
+      elitewarrior_68: 61062044986686826
+      elitewarrior_69: 4072345313184927182
+      elitewarrior_7: -1386546050560377203
+      elitewarrior_70: -4214193925911408871
+      elitewarrior_71: -5293969552711576132
+      elitewarrior_72: -1940159052416396518
+      elitewarrior_73: -7637222822867807235
+      elitewarrior_74: -3929026852666598279
+      elitewarrior_75: -7059949452687397305
+      elitewarrior_76: -5971550914573127544
+      elitewarrior_77: 4663402048879170654
+      elitewarrior_78: -8335365976561566481
+      elitewarrior_79: -7062483084508229049
+      elitewarrior_8: 3604547076920193986
+      elitewarrior_80: -4959518555711683945
+      elitewarrior_81: -5346797198674046975
+      elitewarrior_82: -6693909621654854703
+      elitewarrior_83: 7470794625642972491
+      elitewarrior_84: -698663197683261363
+      elitewarrior_85: -3039034565210439624
+      elitewarrior_86: 5019710007205614192
+      elitewarrior_87: 6889486938874626001
+      elitewarrior_88: -4222984696507538082
+      elitewarrior_89: 4110530240063468408
+      elitewarrior_9: -7115800437238817706
+      elitewarrior_90: 2092682392855790484
+      elitewarrior_91: 5127120469963090930
+      elitewarrior_92: 2063755035662633317
+      elitewarrior_93: 3996101459971247338
+      elitewarrior_94: -2630056130097600319
+      elitewarrior_95: 6150451124053461612
+      elitewarrior_96: -6231574509249551459
+      elitewarrior_97: -1786056186460844090
+      elitewarrior_98: 6923702943841601396
+      elitewarrior_99: 5066583284794926370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

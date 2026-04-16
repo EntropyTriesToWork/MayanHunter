@@ -1,0 +1,49 @@
+# Español Mexicano (Mexican Spanish)
+# Format: KEY=VALUE
+# Rules:
+#   - No spaces allowed (the parser splits on whitespace)
+#   - Use _ for a space character in a value
+#   - Use \n for a newline character in a value
+#   - Lines starting with # are ignored (comments)
+#   - Keys are case-sensitive
+
+# ── UI ───────────────────────────────────────────────────────────────────────
+BTN_START=Iniciar_Juego
+BTN_QUIT=Salir
+BTN_SETTINGS=Configuración
+BTN_BACK=Regresar
+BTN_CONFIRM=Confirmar
+BTN_CANCEL=Cancelar
+BTN_RESUME=Continuar
+BTN_RESTART=Reiniciar
+BTN_NEXT_LEVEL=Siguiente_Nivel
+BTN_PLAY_AGAIN=Jugar_de_Nuevo
+BTN_SELECT_LEVEL=Elegir_Nivel
+BTN_SUBMIT_SCORE=Enviar_Puntuación
+BTN_RESET_PROGRESS=Borrar_Progreso
+
+# ── HUD ──────────────────────────────────────────────────────────────────────
+HUD_SCORE=Puntaje
+HUD_HEALTH=Vida
+HUD_LIVES=Vidas
+HUD_LEVEL=Nivel
+
+# ── Menus ────────────────────────────────────────────────────────────────────
+MENU_MAIN_TITLE=Mi_Súper_Juego
+MENU_PAUSE_TITLE=Pausado
+MENU_SETTINGS_TITLE=Configuración
+MENU_LANGUAGE_LABEL=Idioma
+MENU_LEADERBOARD=Tabla_de_Posiciones
+MENU_TIME=Tiempo
+
+# ── Notifications / Prompts ───────────────────────────────────────────────────
+NOTIF_LOADING=Cargando...
+NOTIF_SAVING=Guardando...
+NOTIF_SAVED=¡Juego_Guardado!
+NOTIF_GAME_OVER=Juego_Terminado
+NOTIF_LEVEL_COMPLETE=¡Nivel_Completado!
+PROMPT_QUIT_CONFIRM=¿Seguro_que_quieres_salir?
+
+# ── Dialogue ─────────────────────────────────────────────────────────────────
+DIALOGUE_NPC_GREETING=Hola,_viajero._Bienvenido_a_nuestro_pueblo.
+DIALOGUE_NPC_FAREWELL=Que_te_vaya_bien,_amigo.
