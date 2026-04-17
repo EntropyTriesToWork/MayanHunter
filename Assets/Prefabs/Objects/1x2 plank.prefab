@@ -179,7 +179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 084ce276ba7c5244d8733ff2fa0e5e5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelObject
-  maxHealth: 20
+  maxHealth: 50
   scoreValue: 200
   damageMultiplier: 1
   isTarget: 0

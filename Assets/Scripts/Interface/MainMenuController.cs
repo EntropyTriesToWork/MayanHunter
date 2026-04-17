@@ -1,6 +1,9 @@
+using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 using TMPro;
+using UnityEngine;
+using static UnityEngine.GraphicsBuffer;
+using static UnityEngine.Rendering.DebugUI;
 
 public class MainMenuController : MonoBehaviour
 {
@@ -14,6 +17,8 @@ public class MainMenuController : MonoBehaviour
     [SerializeField] private Transform levelButtonContainer;
     [SerializeField] private Transform leaderboardEntryContainer;
     [SerializeField] private LeaderboardEntryUI leaderboardEntryPrefab;
+    [SerializeField] private CanvasGroup leaderBoardPanel;
+    [SerializeField] private RectTransform leaderBoardListParent;
 
     [Header("Score Submission Panel")]
     [SerializeField] private GameObject submitPanel;
@@ -140,7 +145,49 @@ public class MainMenuController : MonoBehaviour
         CloseConfirmDeleteAll();
         BuildLevelButtons();
         RefreshLeaderboard();
+        levelSettings.selectedLevel = levelSettings.allLevels[0];
     }
+    private Vector2 lbHidingPos = new Vector3(780, 0);
+    private Vector2 lbVisiblePos = new Vector3(480, 0);
+    private float _progress = 0f;
+    private float _duration = 0.2f;
+    private Coroutine slideRoutine = null;
+    public void ToggleLeaderboardVisibility()
+    {
+        if (slideRoutine != null)
+            StopCoroutine(slideRoutine);
+        float target = (_progress >= 0.5f) ? 0f : 1f;
+        slideRoutine = StartCoroutine(SlideRoutine(target));
+
+        IEnumerator SlideRoutine(float target)
+        {
+            float start = _progress;
+            float time = 0f;
+
+            // Adjust duration based on remaining distance
+            float adjustedDuration = _duration * Mathf.Abs(target - start);
+
+            while (time < adjustedDuration)
+            {
+                time += Time.deltaTime;
+                float t = time / adjustedDuration;
+
+                // Smooth easing
+                float eased = Mathf.SmoothStep(0f, 1f, t);
+
+                _progress = Mathf.Lerp(start, target, eased);
+                leaderBoardListParent.anchoredPosition = Vector2.Lerp(lbHidingPos, lbVisiblePos, _progress);
+                leaderBoardPanel.alpha = eased;
+                yield return null;
+            }
+
+            _progress = target;
+            leaderBoardListParent.anchoredPosition = Vector2.Lerp(lbHidingPos, lbVisiblePos, _progress);
+            if(_progress >= 0.5f) { leaderBoardPanel.interactable = true; }
+            else { leaderBoardPanel.interactable = false; }
+            slideRoutine = null;
+        }
+}
     private static void SetPanelActive(GameObject panel, bool active)
     {
         if (panel != null) panel.SetActive(active);

@@ -21,7 +21,6 @@ public class CameraController : MonoBehaviour
     {
         _targetX = transform.position.x;
     }
-
     private void Update()
     {
         if (IsLockedForThrow || _pc.IsDragging) return;
@@ -29,7 +28,6 @@ public class CameraController : MonoBehaviour
         HandleMouseInput();
         HandleTouchInput();
     }
-
     private void LateUpdate()
     {
         float clampedX = Mathf.Clamp(_targetX, scrollMin, scrollMax);
@@ -56,7 +54,6 @@ public class CameraController : MonoBehaviour
         if (Input.GetMouseButtonUp(0))
             _isDragging = false;
     }
-
     private void HandleTouchInput()
     {
         if (Input.touchCount != 1) return;
@@ -99,7 +96,6 @@ public class CameraController : MonoBehaviour
     }
 
 #if UNITY_EDITOR
-    // Draw scroll limits as a gizmo line in Scene view
     private void OnDrawGizmosSelected()
     {
         float y = transform.position.y;
