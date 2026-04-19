@@ -951,8 +951,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1126,8 +1126,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1263,8 +1263,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1617,6 +1617,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 3198200171238951290, guid: cb5adc8820074b346a1c466874190a95, type: 3}
   m_PrefabInstance: {fileID: 976222291}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &976222293 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3231197305169558483, guid: cb5adc8820074b346a1c466874190a95, type: 3}
+  m_PrefabInstance: {fileID: 976222291}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &990904738
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1830,7 +1835,8 @@ MonoBehaviour:
   throwIndicator: {fileID: 894913726}
   cameraController: {fileID: 519420033}
   victoryPanel: {fileID: 1851232428}
-  failurePanel: {fileID: 0}
+  nextLevelButton: {fileID: 976222293}
+  failurePanel: {fileID: 1851232428}
   hudPanel: {fileID: 1617419300}
   starOne: {fileID: 522825453}
   starTwo: {fileID: 1936811121}
@@ -1839,7 +1845,6 @@ MonoBehaviour:
   outcomeDelay: 3
   scoreText: {fileID: 883956497}
   levelText: {fileID: 746888792}
-  targetObject: {fileID: 0}
 --- !u!1 &1087015921
 GameObject:
   m_ObjectHideFlags: 0
@@ -1908,8 +1913,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2508,7 +2513,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.5176471}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

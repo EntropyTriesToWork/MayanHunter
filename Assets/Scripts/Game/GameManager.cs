@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private ThrowIndicator throwIndicator;
     [SerializeField] private CameraController cameraController;
     [SerializeField] private GameObject victoryPanel;
+    [SerializeField] private GameObject nextLevelButton;
     [SerializeField] private GameObject failurePanel;
     [SerializeField] private GameObject hudPanel;
     [SerializeField] private GameObject starOne, starTwo, starThree;
@@ -60,7 +61,10 @@ public class GameManager : MonoBehaviour
         Instantiate(levelSettings.selectedLevel.levelPrefab);
         cameraController.scrollMax = levelSettings.selectedLevel.cameraScrollMax.y;
         cameraController.scrollMin = levelSettings.selectedLevel.cameraScrollMax.x;
-
+        if (levelSettings.selectedLevel == levelSettings.allLevels[levelSettings.allLevels.Count-1])
+        {
+            nextLevelButton.SetActive(false);
+        }
         // Wire up player controller callbacks
         if (playerController != null)
         {

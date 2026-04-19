@@ -2,8 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
-using static UnityEngine.Rendering.DebugUI;
 
 public class MainMenuController : MonoBehaviour
 {
@@ -161,6 +159,7 @@ public class MainMenuController : MonoBehaviour
 
         IEnumerator SlideRoutine(float target)
         {
+            Debug.Log(target);
             float start = _progress;
             float time = 0f;
 
